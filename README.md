@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Pham Nguyen Van Dong
+# 👋 Pham Nguyen Van Dong  
+### 🤖 Robotics & AI Engineer (3rd Year Student)
 
-### 🤖 Robotics & Artificial Intelligence Engineer (3rd Year Student)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+%7C+AI+%7C+Computer+Vision;Building+Intelligent+Machines;Passionate+about+Autonomous+Systems;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Computer+Vision;Building+Intelligent+Systems;Passionate+about+Autonomous+Robots" />
 
 </div>
 
@@ -12,99 +11,63 @@
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 3rd-year student majoring in **Robotics & Artificial Intelligence**
-- 🤖 Passionate about **Autonomous Robots & Smart Systems**
-- 👁️ Strong interest in **Computer Vision & Deep Learning**
-- 🚀 Currently working on **real-world robotics applications**
-- 💡 Love combining **hardware + software** into intelligent systems
-- 📚 Always learning and exploring cutting-edge technologies
+- 🎓 3rd-year Robotics & AI student  
+- 🤖 Focus on Autonomous Systems  
+- 👁️ Computer Vision & Deep Learning  
+- 🚀 Building real-world robot applications  
+- 💡 Love combining hardware + software  
 
 <br clear="both">
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
-### 💻 Languages
-- Python • C++ • C# • MATLAB • JavaScript  
-
-### 🧠 AI & Data
-- TensorFlow • PyTorch • OpenCV • scikit-learn  
-- NumPy • Pandas  
-
-### 🤖 Robotics
-- ROS • ROS2  
-- Arduino • ESP32 • Raspberry Pi  
-- NVIDIA Jetson  
-
-### 🛠 Tools
-- Git • Docker • Linux • VS Code • Jupyter  
+**Languages:** Python • C++ • MATLAB • C#  
+**AI/ML:** PyTorch • TensorFlow • OpenCV • scikit-learn  
+**Robotics:** ROS • ROS2 • Arduino • ESP32 • Jetson  
+**Tools:** Git • Docker • Linux • VS Code  
 
 ---
 
-## 🚀 Featured Interests
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🤖 Robotics | 🧠 AI | 👁️ Vision |
-|------------|------|----------|
-| Autonomous Systems | Deep Learning | Object Detection |
-| Path Planning | Neural Networks | Image Processing |
-| SLAM | AI Models | Perception Systems |
+<img src="https://github-readme-stats.vercel.app/api?username=vandong210705&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vandong210705&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=vtnguyen04&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vtnguyen04&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Contact
 
 <div align="center">
 
-📧 Email: **cudonganphu@gmail.com**  
-📱 Phone: **0397513379**  
+📧 **cudonganphu@gmail.com**  
+📱 **0397513379**  
 
-<a href="https://github.com/vtnguyen04">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/vandong210705">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
 </div>
 
 ---
 
-## 🧩 Current Focus
+## 🚀 Current Focus
 
-- 🔭 Building **Autonomous Robot Systems**
-- 🌱 Learning **Advanced Deep Learning Architectures**
-- 🧠 Improving **AI Model Optimization**
-- 🚗 Exploring **Self-driving Technologies**
-
----
-
-## ⚡ Personal Philosophy
-
-<div align="center">
-
-> "Technology is not just code — it's the intelligence we give to machines."
-
-</div>
+- Autonomous Robotics  
+- Deep Learning  
+- Self-driving Systems  
 
 ---
 
 <div align="center">
 
-✨ *Let's build something intelligent together* ✨  
+✨ *Building intelligent machines* ✨  
 
 </div>
