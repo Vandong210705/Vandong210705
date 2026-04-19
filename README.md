@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đồng&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đông&fontSize=35&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -11,11 +11,15 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Dinosaur Animation" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Person Sitting and Drinking Water" />
+</div>
+
 ---
 
 ## 🧑‍💻 Personal Information
 
-- **Name**: Phạm Nguyễn Văn Đồng  
+- **Name**: Phạm Nguyễn Văn Đông  
 - **Role**: Future Robotics & AI Engineer  
 - **Location**: Tp. Thủ Đức, TP.HCM  
 - **Email**: cudonganphu@gmail.com  
@@ -102,30 +106,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vandong210705&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandong210705&layout=compact&theme=radical" width="350"/>
-</div>
-
----
-
-## 📂 Featured Repositories
-
-### 🚗 [Autonomous Vehicle Control](https://github.com/Vandong210705/autonomous-vehicle-control)
-- **Description**: High-speed autonomous vehicle control using PID and image processing.  
-- **Technologies**: Python, OpenCV, ROS.  
-
-### 🤖 [Action Recognition with 3D CNN](https://github.com/Vandong210705/action-recognition-3dcnn)
-- **Description**: Classifying human actions from video using 3D convolutional neural networks.  
-- **Technologies**: TensorFlow, Python.  
-
-### 🔍 [Image-Text Retrieval System](https://github.com/Vandong210705/image-text-retrieval)
-- **Description**: Intelligent data retrieval system using CLIP and Transformer models.  
-- **Technologies**: PyTorch, Python.  
-
----
-
-## 🗓️ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vandong210705&theme=radical" alt="GitHub Contribution Graph" />
 </div>
 
 ---
