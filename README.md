@@ -103,7 +103,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20,%20Always%20Improving%20!&center=true&width=400&color=58a6ff&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20,%20Improving%20!&center=true&width=400&color=58a6ff&pause=1000" />
 </div>
 
 <div align="center">
