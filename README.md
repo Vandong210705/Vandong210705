@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BC13FE&center=true&vCenter=true&width=800&lines=Initializing+Intelligence...;Building+Autonomous+Systems;Always+Learning...+Always+Innovating!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BC13FE&center=true&vCenter=true&width=800&lines=Initializing+Intelligence...;Building+Autonomous+Systems;Always+Learning...+Always+Innovating!" />
 </div>
 
 <div align="center">
@@ -22,9 +22,14 @@
   "location": "Thu Duc City, HCM",
   "status": "Searching for challenges..."
 }
-🛠️ Tech Stack & Weapons
+```
+
+---
+
+## 🛠️ Tech Stack & Weapons
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,cpp,pytorch,tensorflow,opencv,ros,arduino,linux,vscode,github%26theme%3Ddark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,opencv,ros,arduino,linux,vscode,github&theme=dark" />
 </div>
 
 <br />
@@ -40,52 +45,66 @@
 </tr>
 </table>
 
-🏆 Hall of Fame
-🚀 Champion – UIT Autonomous Vehicle Competition (2024-2025)
+---
 
+## 🏆 Hall of Fame
+
+🚀 **Champion – UIT Autonomous Vehicle Competition (2024-2025)**  
 Hard-coded high-speed control & real-time obstacle avoidance.
 
-💡 Potential Award – AI Competition (AIC 2025)
-
+💡 **Potential Award – AI Competition (AIC 2025)**  
 Applied SOTA AI models to complex real-world logic.
 
-🥈 Runner-up – City-level Informatics Contest (Grade 12).
+🥈 **Runner-up – City-level Informatics Contest (Grade 12)**  
 
-📊 Kaggle Enthusiast – Focusing on GANs & MLPs.
+📊 **Kaggle Enthusiast** – Focusing on GANs & MLPs.
 
-🔬 Field Research (Projects)
-01. Intelligent Retrieval System
-CLIP | Transformer | Python
+---
+
+## 🔬 Field Research (Projects)
+
+### 01. Intelligent Retrieval System  
+**CLIP | Transformer | Python**  
 Phá bỏ ranh giới giữa Text và Image. Xây dựng hệ thống truy vấn dữ liệu thông minh bằng ngôn ngữ tự nhiên.
 
-02. Action Recognition (3D CNN)
-TensorFlow | Computer Vision
+### 02. Action Recognition (3D CNN)  
+**TensorFlow | Computer Vision**  
 Nhận diện hành vi con người từ Video stream với độ trễ cực thấp.
 
-03. Sign Language Translator
+### 03. Sign Language Translator  
 Giải mã ngôn ngữ ký hiệu, hỗ trợ cộng đồng khiếm thính hòa nhập qua công nghệ AI.
 
-📊 Terminal Analytics
+---
+
+## 📊 Terminal Analytics
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVandong210705%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00f2ff%26text_color%3Dffffff%26icon_color%3DBC13FE" width="48%"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVandong210705%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00f2ff%26text_color%3Dffffff" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vandong210705&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=BC13FE" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandong210705&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" width="38%"/>
 </div>
 
-📡 Signal Connect
+---
+
+## 📡 Signal Connect
+
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/">
+<a href="https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:cudonganphu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/Vandong210705">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-111111%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
+
+---
 
 <br />
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D100%26section%3Dfooter%26text%3DTERMINAL%2520CLOSED%26fontSize%3D20%26fontColor%3D00f2ff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=TERMINAL%20CLOSED&fontSize=20&fontColor=00f2ff" />
 </div>
