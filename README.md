@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Future+Robotics+%26+AI+Engineer;Passionate+about+Autonomous+Vehicles;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Dinosaur Animation" />
+</div>
+
 ---
 
 ## 🧑‍💻 Personal Information
@@ -102,6 +106,30 @@
 
 ---
 
+## 📂 Featured Repositories
+
+### 🚗 [Autonomous Vehicle Control](https://github.com/Vandong210705/autonomous-vehicle-control)
+- **Description**: High-speed autonomous vehicle control using PID and image processing.  
+- **Technologies**: Python, OpenCV, ROS.  
+
+### 🤖 [Action Recognition with 3D CNN](https://github.com/Vandong210705/action-recognition-3dcnn)
+- **Description**: Classifying human actions from video using 3D convolutional neural networks.  
+- **Technologies**: TensorFlow, Python.  
+
+### 🔍 [Image-Text Retrieval System](https://github.com/Vandong210705/image-text-retrieval)
+- **Description**: Intelligent data retrieval system using CLIP and Transformer models.  
+- **Technologies**: PyTorch, Python.  
+
+---
+
+## 🗓️ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vandong210705&theme=radical" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -120,6 +148,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20...%20Always%20Improving!&center=true&width=400&color=58a6ff&pause=1000" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Dinosaur Animation" />
 </div>
 
 <div align="center">
