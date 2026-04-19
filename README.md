@@ -8,11 +8,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Dinosaur Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Person Sitting and Drinking Water" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Vandong210705&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705)
+  [![GitHub stars](https://img.shields.io/github/stars/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705)
 </div>
 
 ---
@@ -128,10 +130,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20...%20Always%20Improving!&center=true&width=400&color=58a6ff&pause=1000" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Dinosaur Animation" />
 </div>
 
 <div align="center">
