@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đông&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đồng&fontSize=35&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -12,17 +12,16 @@
 </div>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Vandong210705&color=00D9FF&style=for-the-badge&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705)
-  [![GitHub stars](https://img.shields.io/github/stars/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705)
+[Profile Views](https://komarev.com/ghpvc/?username=Vandong210705&color=00D9FF&style=for-the-badge&label=Profile+Views) 
+[![GitHub Followers](https://img.shields.io/github/followers/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705) 
+[![GitHub Stars](https://img.shields.io/github/stars/Vandong210705?style=for-the-badge&color=00D9FF)](https://github.com/Vandong210705)
 </div>
-
 ---
 
 ## 🧑‍💻 Personal Information
 
-- **Name**: Phạm Nguyễn Văn Đông  
-- **Role**: Future Robotics & AI Engineer  
+- **Name**: Phạm Nguyễn Văn Đồng  
+- **Major**: Future Robotics & AI Engineer  
 - **Location**: Tp. Thủ Đức, TP.HCM  
 - **Email**: cudonganphu@gmail.com  
 - **Phone**: 0397.513.379  
@@ -33,10 +32,8 @@
 
 - 🎓 **3rd-year Student** majoring in Robotics & Artificial Intelligence at HCMUTE.  
 - 🔬 Strong foundation in **Mathematics** and **Algorithms**.  
-- 🤖 Passionate about applying advanced technologies like **Transformer**, **CLIP**, and **3D CNN** to real-world problems.  
-- 🏆 **Winner** of the UIT Autonomous Vehicle Competition.  
-- 🌱 Aspiring to join **Viettel Digital Talent 2026** to develop large-scale AI solutions.  
-
+- 🤖 Passionate about applying advanced technologies like **Transformer**, **CLIP**, and **3D CNN** to real-world problems.    
+ 
 ---
 
 ## 🛠️ Technical Skills
