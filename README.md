@@ -1,10 +1,10 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đông&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đông&fontSize=35&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Future+Robotics+%26+AI+Engineer;Passionate+about+Autonomous+Vehicles;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Future+Robotics+%26+AI+Engineer;Passionate+about+Autonomous+Vehicles;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
 ---
@@ -20,10 +20,6 @@
 ---
 
 ## 🌟 About Me
-
-<div align="center">
-  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
 
 - 🎓 **3rd-year Student** majoring in Robotics & Artificial Intelligence at HCMUTE.  
 - 🔬 Strong foundation in **Mathematics** and **Algorithms**.  
