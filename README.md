@@ -1,39 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Phạm+Nguyễn+Văn+Đông+👋;AI+Engineer+%26+Robotics+Researcher+🤖;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hello!+I'm+Phạm+Nguyễn+Văn+Đông+👋;AI+Engineer+%26+Robotics+Researcher+🤖;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" />
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Vandong210705&color=FF5733&style=for-the-badge&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/Vandong210705?style=for-the-badge&color=FF5733)](https://github.com/Vandong210705)
-  [![GitHub stars](https://img.shields.io/github/stars/Vandong210705?style=for-the-badge&color=FF5733)](https://github.com/Vandong210705)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Vandong210705&color=FF4500&style=for-the-badge&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/Vandong210705?style=for-the-badge&color=FF4500)](https://github.com/Vandong210705)
+  [![GitHub stars](https://img.shields.io/github/stars/Vandong210705?style=for-the-badge&color=FF4500)](https://github.com/Vandong210705)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
-- 🤖 **AI Engineer & Robotics Researcher** specializing in intelligent systems
-- 🎓 **3rd-year Student** majoring in Robotics and Artificial Intelligence
-- 🔬 Passionate about creating autonomous solutions and innovative technologies
-- 🌱 Currently exploring advanced AI architectures and robotic perception
-- 🎯 Dedicated to solving real-world problems with cutting-edge technology
-- 💡 Open to collaboration on AI and robotics projects
+- 🤖 **AI Engineer & Robotics Researcher** with a passion for intelligent systems  
+- 🎓 **3rd-year Student** majoring in Robotics and Artificial Intelligence  
+- 🔬 Exploring **autonomous systems**, **robotic perception**, and **AI architectures**  
+- 🌱 Always learning and innovating in the field of robotics and AI  
+- 💡 Open to collaboration on cutting-edge projects  
 
 📞 **Phone**: 0397513379  
 📧 **Email**: cudonganphu@gmail.com  
-🌐 **GitHub**: [Vandong210705](https://github.com/Vandong210705)
+🌐 **GitHub**: [Vandong210705](https://github.com/Vandong210705)  
+🔗 **LinkedIn**: [Phạm Nguyễn Văn Đông](https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/?trk=public-profile-join-page)
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -114,10 +118,10 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Highlights
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Vandong210705&theme=radical&hide_border=true&background=0D1117&stroke=FF5733&ring=FF5733&fire=FF5733&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF5733&sideNums=FF5733" alt="GitHub Streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Vandong210705&theme=highcontrast&hide_border=true&background=0D1117&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF4500&sideNums=FF4500" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -125,7 +129,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pham-nguyen-van-dong/" target="_blank">
+  <a href="https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/?trk=public-profile-join-page" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:cudonganphu@gmail.com">
