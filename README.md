@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đông&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đồng&fontSize=35&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Personal Information
 
-- **Name**: Phạm Nguyễn Văn Đông  
+- **Name**: Phạm Nguyễn Văn Đồng  
 - **Role**: Future Robotics & AI Engineer  
 - **Location**: Tp. Thủ Đức, TP.HCM  
 - **Email**: cudonganphu@gmail.com  
