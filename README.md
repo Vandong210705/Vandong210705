@@ -1,6 +1,5 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Phạm%20Nguyễn%20Văn%20Đồng&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=PHẠM%20NGUYỄN%20VĂN%20ĐỒNG&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -8,97 +7,81 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
-
-
-## 🧑‍💻 Personal Information
-
-- **Name**: Phạm Nguyễn Văn Đồng  
-- **Major**: Future Robotics & AI Engineer  
-- **Location**: Tp. Thủ Đức, TP.HCM  
-- **Email**: cudonganphu@gmail.com  
-- **Phone**: 0397.513.379  
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **3rd-year Student** majoring in Robotics & Artificial Intelligence at HCMUTE.  
-- 🔬 Strong foundation in **Mathematics** and **Algorithms**.  
-- 🤖 Passionate about applying advanced technologies like **Transformer**, **CLIP**, and **3D CNN** to real-world problems.    
- 
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>🎓 <b>Education:</b> 3rd-year Student at <b>HCMUTE</b></p>
+      <p>🤖 <b>Major:</b> Robotics & Artificial Intelligence</p>
+      <p>📍 <b>Location:</b> Thu Duc City, Ho Chi Minh City</p>
+      <p>🔥 <b>Passion:</b> Deep Learning (Transformers, CLIP, 3D CNN) & Self-driving technology.</p>
+    </td>
+    <td width="50%">
+      <p>📧 <b>Email:</b> <a href="mailto:cudonganphu@gmail.com">cudonganphu@gmail.com</a></p>
+      <p>📞 <b>Phone:</b> 0397.513.379</p>
+      <p>💼 <b>Goal:</b> Building intelligent systems that bridge the gap between AI and the physical world.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔤 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
 
-### 🧠 AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Robotics** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Maths** | `Linear Algebra` `Calculus` `Probability & Statistics` `Optimization` |
 
-### 🤖 Robotics & Hardware
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 📚 Mathematics & Algorithms
-- Linear Algebra, Calculus, Probability & Statistics  
-- Optimization Algorithms, Data Structures  
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-- **🏅 Winner** – UIT Autonomous Vehicle Competition (2024-2025)  
-  - Developed high-speed autonomous vehicle control using **PID Controller** and **Image Processing**.  
-  - Optimized path planning and obstacle avoidance strategies.  
+- **🏅 Winner** – *UIT Autonomous Vehicle Competition (2024-2025)*
+  - Implemented high-speed control using **PID Controllers** and advanced **Computer Vision**.
+  - Optimized path planning and real-time obstacle avoidance.
 
-- **🏅 Potential Award** – AI Competition (AIC 2025)  
-  - Recognized for creative application of AI models to real-world problems.  
+- **🏅 Potential Award** – *AI Competition (AIC 2025)*
+  - Recognized for innovative application of AI models to solve complex real-world scenarios.
 
-- **🥈 Runner-up** – City-level Informatics Contest (Grade 12).  
+- **🥈 Runner-up** – *City-level Informatics Contest (Grade 12)*.
 
-- **Kaggle Projects**: Successfully completed projects using **GANs** and **MLPs**.  
-
----
-
-## 🔬 Research Projects
-
-### 1. Intelligent Data Retrieval System (Image-Text Retrieval)
-- **Role**: Core Researcher & Developer  
-- **Technology**: CLIP, Transformer, Python  
-- **Description**: Built a system to search files/images using natural language queries.  
-- **Contribution**: Fine-tuned CLIP to align image and text data, improving accuracy over traditional keyword search.  
-
-### 2. Action Recognition System (3D CNN)
-- **Role**: Model Engineer  
-- **Technology**: 3D CNN, TensorFlow  
-- **Description**: Developed a 3D convolutional neural network to classify human actions from video.  
-- **Contribution**: Optimized the model for a balance between accuracy and processing speed.  
-
-### 3. Sign Language Recognition System
-- **Description**: Created an application to translate hand gestures into text to assist the hearing-impaired.  
+- **Kaggle**: Active contributor with projects involving **GANs** and **MLPs**.
 
 ---
 
-## 📚 Education
+## 🔬 Key Research Projects
 
-- **University**: HCMUTE (Ho Chi Minh City University of Technology and Education)  
-- **Major**: Robotics & Artificial Intelligence  
-- **Year**: 3rd Year  
-- **Key Courses**: Advanced Mathematics, Machine Learning, Deep Learning  
+### 1️⃣ Intelligent Data Retrieval System
+* **Stack:** CLIP, Transformer, Python
+* **Impact:** Built a multi-modal retrieval system allowing users to search for images using natural language, outperforming traditional metadata-based search.
+
+### 2️⃣ Action Recognition System (3D CNN)
+* **Stack:** 3D CNN, TensorFlow, Keras
+* **Impact:** Developed a robust model to classify human actions in video streams, balancing high accuracy with low-latency inference.
+
+### 3️⃣ Sign Language Recognition
+* **Impact:** Developed a hand-gesture translation tool to facilitate communication for the hearing-impaired community.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vandong210705&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandong210705&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vandong210705&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandong210705&layout=compact&theme=radical&hide_border=true" width="38%"/>
 </div>
 
 ---
@@ -106,18 +89,18 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/?trk=public-profile-join-page" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/dong-pham-nguyen-van-2574482bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vandong210705">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:cudonganphu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Vandong210705" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
+<br />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20...%20Always%20Improving!&center=true&width=400&color=58a6ff&pause=1000" />
