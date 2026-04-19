@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hello!+I'm+Phạm+Nguyễn+Văn+Đông+👋;AI+Engineer+%26+Robotics+Researcher+🤖;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Hello!+I'm+Phạm+Nguyễn+Văn+Đông+👋;Autonomous+Vehicle+Engineer+🚗;AI+&+Robotics+Researcher+🤖;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
 ---
@@ -24,9 +24,10 @@
   <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
-- 🤖 **AI Engineer & Robotics Researcher** with a passion for intelligent systems  
+- 🚗 **Autonomous Vehicle Engineer** with a passion for self-driving systems  
+- 🤖 **AI & Robotics Researcher** specializing in intelligent systems  
 - 🎓 **3rd-year Student** majoring in Robotics and Artificial Intelligence  
-- 🔬 Exploring **autonomous systems**, **robotic perception**, and **AI architectures**  
+- 🔬 Exploring **autonomous navigation**, **robotic perception**, and **AI architectures**  
 - 🌱 Always learning and innovating in the field of robotics and AI  
 - 💡 Open to collaboration on cutting-edge projects  
 
@@ -46,7 +47,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -63,13 +63,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🚗 Autonomous Vehicle Tools
+![Gazebo](https://img.shields.io/badge/Gazebo-FF4500?style=for-the-badge&logo=gazebo&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-000000?style=for-the-badge&logo=carla&logoColor=white)
+![Autoware](https://img.shields.io/badge/Autoware-22314E?style=for-the-badge&logo=autoware&logoColor=white)
 
 </div>
 
@@ -82,8 +79,8 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100px" />
-        <br><b>🤖 Autonomous Robotics</b>
-        <br><sub>Building intelligent robotic systems</sub>
+        <br><b>🚗 Autonomous Vehicles</b>
+        <br><sub>Developing self-driving systems</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px" />
@@ -104,8 +101,8 @@
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
-        <br><b>📊 Data Science</b>
-        <br><sub>Sensor data analysis</sub>
+        <br><b>📊 Sensor Fusion</b>
+        <br><sub>Combining data for accuracy</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100px" />
@@ -145,6 +142,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
   
-  **Thanks for visiting my profile! Let's collaborate on AI and Robotics projects** 🚀
+  **Thanks for visiting my profile! Let's collaborate on Autonomous Vehicles and Robotics projects** 🚀
   
 </div>
